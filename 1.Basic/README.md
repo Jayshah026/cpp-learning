@@ -22,7 +22,20 @@
        getline(cin, str);
        cout << str;
    - This way the string will be good to go with just one variable declaration. 
-7. char - It uses to store single charecter. 
+7. char - It uses to store single charecter.
+
+## if-else 
+
+- So it's a conditional statement in which we have certain condition to be execute, in order to do that in minimum time and less effort we are using if else         statement.
+  
+- syntax :
+- if (condition){
+- // statement
+- } else if (condition) {
+- // statement
+- } else {
+- // statement
+- }
 
 
 
