@@ -29,14 +29,72 @@
 - So it's a conditional statement in which we have certain condition to be execute, in order to do that in minimum time and less effort we are using if else         statement.
   
 - syntax :
-- if (condition){
-- // statement
-- } else if (condition) {
-- // statement
-- } else {
-- // statement
-- }
+ if (condition){
+ // statement
+ } else if (condition) {
+ // statement
+ } else {
+ // statement
+}
 
+## switch case
+
+- So it's just work as a if-else but in this the syntax is changed and also in this we have to choose a thing to do a specific work.
+
+- Syntax :
+
+// Variable declaration 
+
+switch(Variable name){
+  case 1:
+  // statement
+  break;
+
+  case 2:
+  //statement
+  break;
+
+  default:
+  //statement
+
+  }
+
+## Loops
+
+1. for loop :
+
+- When we have a specific condition to be executed for number of times or multiple times then we are using for loop for that specific problem.
+
+- Syntax :
+
+for(initialization; condition; increment/decrement){
+            // statement
+    }
+
+2. while loop :
+
+- When we don't know how many times we want to run the loop then we are using while loop
+
+- Syntax :
+
+// Initialization
+while(condition){
+  //statement
+  increment/decrement
+  }
+
+3. do while loop
+
+- Same as while loop but when if we want to execute the condition atleast 1 time then we use do while loop.
+
+- Syntax :
+
+//Initialization
+do{
+  //statement
+  increment/decrement
+  }while(condition)  
+    
 
 
 # Important
