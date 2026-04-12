@@ -1,4 +1,4 @@
-# What i learn
+# What i learn (All the basics in one folder from loops to conditional statement and all..)
 
 ## Basic
 
