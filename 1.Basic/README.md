@@ -1,4 +1,4 @@
-# What i learn (All the basics in one folder from loops to conditional statement and all..)
+# What i learn (All the basics concepts of everything in one folder with little portion of everything)
 
 ## Basic
 
@@ -93,7 +93,18 @@ while(condition){
 do{
   //statement
   increment/decrement
-  }while(condition)  
+  }while(condition) 
+
+
+  ## Time complexity 
+
+- So whenever you are analysing the time complexity there are 3 cases of them.
+
+1. Best case
+2. Average case
+3. Worst case
+
+- Now whenever we have to analyze the time complexity always check or go with the worst case time complexity which will be efficient to measure and by that all      other cases can be measure without any problem. 
     
 
 
