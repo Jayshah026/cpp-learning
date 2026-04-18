@@ -1,10 +1,11 @@
-/*
-To make this pattern : 
+/*To make this pattern :
+
 1  
 12 
 123 
 1234 
 12345 
+
 */
 
 #include<iostream>
