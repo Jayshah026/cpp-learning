@@ -1,4 +1,4 @@
-/* To Print this.. 
+/* To print this pattern :  
 
 *
 **
