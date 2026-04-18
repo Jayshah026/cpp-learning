@@ -1,9 +1,12 @@
 /* To print this pattern : 
+
     *
    ***
   *****
  *******
-*********  */
+********* 
+
+*/
 
 #include<iostream>
 using namespace std;
