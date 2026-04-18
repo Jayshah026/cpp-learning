@@ -1,4 +1,5 @@
-/*To print this :    
+/*To print this : 
+
     *
    ***
   *****
@@ -8,7 +9,9 @@
  *******
   *****
    ***
-    *          */
+    *          
+    
+*/
 
 // Here we are combining the 7th and 8th pattern to make this pattern 
 
