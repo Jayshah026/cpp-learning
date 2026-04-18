@@ -1,4 +1,4 @@
-/* Print this pattern 
+/* To print this pattern :  
 
 *****
 *****
@@ -24,4 +24,4 @@ int main(){
 }
 
 // Here i is representing the row number. Now the first loop which is starting with i will handle the row numbers step by step. 
-// Now Here 2nd for loop which is starting form the j will print the * step by step. 
+// Now Here 2nd for loop which is starting form the j will print the * step by step.
