@@ -1,9 +1,12 @@
 /*To print this pattern : 
+
 ABCDE
 ABCD
 ABC
 AB
-A              */
+A             
+
+*/
 
 #include<iostream>
 using namespace std;
