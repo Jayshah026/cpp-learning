@@ -1,9 +1,11 @@
-/* Here to print this pattern : 
+/* To print this pattern : 
+
 1  
 22 
 333 
 4444 
 55555 
+
 */
 
 #include<iostream>
