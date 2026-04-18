@@ -1,9 +1,12 @@
-/* To print this : 
+/* To print this pattern :
+
 12345 
 1234 
 123 
 12 
-1 */
+1
+
+*/
 
 #include<iostream>
 using namespace std;
