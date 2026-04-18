@@ -1,9 +1,11 @@
 /*To print this pattern : 
+
 *****
 ****
 ***
 **
 *
+
 */
 
 First code : 
