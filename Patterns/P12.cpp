@@ -1,8 +1,11 @@
 /*To print this pattern : 
+
 1      1
 12    21
 123  321
-12344321    */
+12344321    
+
+*/
 
 #include<iostream>
 using namespace std;
