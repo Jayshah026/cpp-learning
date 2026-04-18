@@ -1,9 +1,12 @@
 /*To print this pattern : 
+
 A
 AB
 ABC
 ABCD
-ABCDE         */
+ABCDE         
+
+*/
 
 #include<iostream>
 using namespace std;
@@ -21,4 +24,4 @@ int main(){
         return 0;
 }
 
-// Here if i have written "j <= 'A' + i" Then the output will be starting form AB not form the A. 
+// Here if i have written "j <= 'A' + i" Then the output will be starting form AB not form the A.
