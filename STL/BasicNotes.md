@@ -26,6 +26,3 @@ pair<int, pair<int, int>> p = {2 {3, 4}};
 - Accessing the nested pair elements :
 
 cout << first.p << " " << second.first.p << " " << second.second.p; // First will print 2 then 3 then 4. 
-
-
-  
