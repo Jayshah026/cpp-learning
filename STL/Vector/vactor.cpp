@@ -4,7 +4,7 @@ Here What we will learn..
 - How to declare the vector. 
 - How to replace values.
 - How to insert values using "push_back" and "emplace_back". 
-- How to show the values of the vector. 
+- How to show the values of the vector using for loop. 
 */
 
 
@@ -26,3 +26,14 @@ int main(){
 
     return 0;
 }
+
+
+OUTPUT : 
+
+34 
+335
+100
+100
+100
+54
+432
