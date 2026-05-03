@@ -15,3 +15,12 @@ Syntax :
 - v : It's a name of the vector which we will use for the call it or to do more work.
 
 - Other things like declaring the vector, adding the elements, display the elements of the vector with the help of the for loop etc.. is in the "vector.cpp" file.
+
+
+# List : 
+
+- List works just as a vector. 
+- Unlike in vector we are using "insert" to insert a value in the vector which is a heavy process in terms of the complexity.
+- But in the list we can use "front" by which we can easily insert an element at the fornt which is easy to use.
+
+- The example for this is in the listex.cpp 
