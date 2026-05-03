@@ -8,7 +8,7 @@
 
 Syntax : 
 
-vector <int> v; 
+`vector <int> v;` 
 
 - vector : It's a key word that indicate we are using a vector for the data.
 - int : It's telling that we are gonna use integer value for the data. Here the data type can be anything.
