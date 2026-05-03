@@ -1,4 +1,4 @@
-# #include<bits/stdc++>
+# #include<bits/stdc++.h>
 
 - This line will include every library that we need to do coding into the C++ language. Now this is mostly works when we are into the compititive programming challnge
 or somthing like that.
@@ -15,11 +15,11 @@ Ex :
 
  - Accessing the pairs elements :
 
-cout << first.p << " " << second.p; // first means 1 and the second means 4. 
+cout << p.first << " " << p.second; // first means 1 and the second means 4. 
 
+- For this the example is in the pairs.cpp
 
-
-- Nested pair :
+# Nested pair :
 
 pair<int, pair<int, int>> p = {2 {3, 4}}; 
 
