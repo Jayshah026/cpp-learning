@@ -8,4 +8,7 @@ int main(){
     return 0;
 }
 
-// Here the output will be 1 and 4 
+
+OUTPUT : 
+
+1 4
