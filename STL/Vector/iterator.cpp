@@ -32,6 +32,8 @@ int main(){
         cout << i << endl;
     }
 
+    cout << "After updating the value : " << endl;
+
     v.erase(v.begin() + 2, v.begin() + 4);
     v.pop_back();
 
@@ -41,3 +43,18 @@ int main(){
 
     return 0;
 }
+
+OUTPUT : 
+
+1  
+2
+3
+4
+5
+7
+8
+After updating the value : 
+1
+2
+5
+7
