@@ -45,5 +45,3 @@ Key -> 11 & Value -> 3, Key -> 432 & Value -> 1, Key -> 232 & Value -> 1.
 - Here in Map the key can be anything like : int, float, char, string, pair etc.. but in the unorderd map key : int, float, char, string but not a pair.
 
 - For more understading there is a code i have write in the MapEx.cpp
-
-
