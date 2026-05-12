@@ -23,7 +23,7 @@ map<int, int> mp;
 - Here the data type can be anything for both. 
 
 
-### Let's understand how map works : 
+# Let's understand how map works : 
 
 - Here we know that map stores value as key and value. But how exactly?
 - So let's take one example.
