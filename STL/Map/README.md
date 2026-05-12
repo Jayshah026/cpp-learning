@@ -37,7 +37,7 @@ map<int, int> mp;
 - So here KEY = 11. and the Value = 11.
 - At the end the output for this will be..
 
-KEY -> 11 & VAlUE -> 3, KEY -> 432 & VALUE -> 1, KEY -> 232 & VALUE -> 1.
+Key -> 11 & Value -> 3, Key -> 432 & Value -> 1, Key -> 232 & Value -> 1.
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 - So here important thing is..
 - Key = Array value.   Ex : if array value is 53464 then to store this value in the map the key will become 53464, it is not starting form the 0 or 1. 
