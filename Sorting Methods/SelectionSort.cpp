@@ -40,6 +40,7 @@ How many element you want to insert : 5
 
 
 /*What we have done in this? 
+
 - So first we have taken a value n and as per that we have taken an array with the size of that value. Let's suppose it is n so array will become arr[n]. 
 - Now after that we take first loop in which we taken values for the array. 
 - After that we take another for loop in which we take "j = 0; j <= n - 1; j++" Means j will start from the 0th index, Now after that it will go up to n - 2, here
