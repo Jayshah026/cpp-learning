@@ -23,7 +23,9 @@ int main(){
 }
 
 
+/*
 OUTPUT : 
 
 Enter a number : 3
 Sum of digits is : 6
+*/

@@ -33,7 +33,7 @@ int main(){
     cout << s.empty(); 
 }
 
-
+/*
 OUTPUT : 
 
 The top element is : 5
@@ -44,3 +44,4 @@ After delete one element the result is :
 The new top element after updating the vlaue : 4
 The new size of the stack after updating the vlaue : 8
 0
+*/

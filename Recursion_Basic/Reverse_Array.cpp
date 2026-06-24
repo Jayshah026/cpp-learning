@@ -33,8 +33,10 @@ int main(){
 }
 
 
+/*
 OUTPUT : 
 
 Enter a number : 5
 Enter elements : 5 4 5 6 7
 Reversed array : 7 6 5 4 5 
+*/

@@ -16,8 +16,10 @@ int main(){
     return 0;
 }
 
-
+/*
 OUTPUT : 
 
 34
-// Here if you want another output then you can change the number in main function which is right now is 9 but if you change it, the output will be changed too. 
+Here if you want another output then you can change the number in main function which is right now is 9 but if you change it, the 
+output will be changed too. 
+*/

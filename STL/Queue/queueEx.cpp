@@ -34,6 +34,7 @@ int main(){
 }
 
 
+/*
 OUTPUT : 
 
 Last elemtent of the queue : 15
@@ -44,3 +45,4 @@ After updating values :
 Last elemtent of the queue : 15
 First element of the queue : 2
 Size of queue : 10
+*/

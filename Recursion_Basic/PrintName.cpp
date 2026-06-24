@@ -20,9 +20,11 @@ int main(){
 }
 
 
+/*
 OUTPUT : 
 
 Enter a number :3
 Jay Shah
 Jay Shah
 Jay Shah
+*/

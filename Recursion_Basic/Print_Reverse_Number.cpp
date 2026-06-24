@@ -20,6 +20,7 @@ int main(){
 }
 
 
+/*
 OUTPUT : 
 
 Enter a number : 5
@@ -28,3 +29,4 @@ Enter a number : 5
 3
 2
 1
+*/

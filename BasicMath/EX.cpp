@@ -16,7 +16,7 @@ int main(){
 }
 
 
-
+/*
 OUTPUT : 
 
 Enter the number : 1234
@@ -53,3 +53,4 @@ Now 5th Iteration :
 - Here we are taking the integer values only that's why all values here will be in the integer form not in float or any other form. 
 - That's why when we have value 123.4 after doing 1234 / 10 we only take 123 instead of 123.4
 - This will follow in entire code. 
+*/

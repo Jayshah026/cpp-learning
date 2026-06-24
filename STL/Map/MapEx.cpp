@@ -31,7 +31,7 @@ int main(){
     return 0;
 }
 
-
+/*
 OUTPUT : 
 
 Enter a number : 5
@@ -48,3 +48,4 @@ Enter for q : 10
 0
 0
 1
+*/

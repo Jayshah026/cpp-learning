@@ -55,8 +55,10 @@ int main() {
 }
 
 
+/*
 OUTPUT : 
 
 Enter number of elements: 5
 Enter elements: 5 4 3 2 1
 Sorted array: 1 2 3 4 5
+*/

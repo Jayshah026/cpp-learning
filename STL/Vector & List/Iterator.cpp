@@ -44,6 +44,8 @@ int main(){
     return 0;
 }
 
+
+/*
 OUTPUT : 
 
 1  
@@ -58,3 +60,4 @@ After updating the value :
 2
 5
 7
+*/

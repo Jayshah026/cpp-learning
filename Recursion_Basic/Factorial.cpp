@@ -8,7 +8,7 @@ void factorialofdigit(int i, int n){
         return;
     }else{
         fact *= i;
-        sumofdigit(i + 1, n);
+        factorialofdigit(i + 1, n);
     }
 }
 
@@ -22,8 +22,9 @@ int main(){
     return 0;
 }
 
-
+/*
 OUTPUT : 
 
 Enter a number : 5
 factorial of digits is : 120
+*/
