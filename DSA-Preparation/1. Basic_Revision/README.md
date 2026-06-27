@@ -35,6 +35,3 @@ ex : cout << "Hello world"
 - This is basically means that our program is executed successsully.
 
 This is how C++ programs works.
-
-```
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
